@@ -1,3 +1,3 @@
 # Experiment4
 cloning
-commit changes
+commit the changes
